@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/wqh2216/MyBlog.git#readme",
   "devDependencies": {
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.9.7"
   }
 }
